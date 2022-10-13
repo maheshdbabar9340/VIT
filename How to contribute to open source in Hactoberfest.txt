@@ -1,0 +1,8 @@
+Steps to paticipate into Hactoberfest 
+
+1. Go to Github.com and search for hactoberfest2022
+2. Go to projects which are participating into Hactoberfest and take fork to personal github.
+3. Make changes to that project and propose those changes with new branch.
+4. After that go to upstream account in new tab and make pull request to that project.
+
+This is how you will complete 4 PR and you will be contributed to open source.
